@@ -6,7 +6,7 @@
 
 > For `Chinese`, please click [`here.`](https://github.com/FizzyStudio/OTH002-Digital-Push-Button/blob/master/README_cn.md)
 
-![](https://github.com/FizzyStudio/OTH002-Digital-Push-Button/blob/master/OTH002.JPG "OTH002") 
+![](https://github.com/FizzyStudio/OTH002-Digital-Push-Button/blob/master/pic/OTH002.JPG "OTH002") 
 
 ### Introduction
 
@@ -24,7 +24,7 @@
 
 ### Connection Diagram
 
-![](https://github.com/FizzyStudio/OTH002-Digital-Push-Button/blob/master/OTH002_Diagram.png "Connection") 
+![](https://github.com/FizzyStudio/OTH002-Digital-Push-Button/blob/master/pic/OTH002_Diagram.png "Connection") 
 
 ### Sample Code
 
