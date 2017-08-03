@@ -46,7 +46,7 @@
       if (val == HIGH) {            // check if the input is HIGH
         digitalWrite(ledPin, LOW);  // turn LED OFF
       } else {
-        digitalWrite(ledPin, HIGH); // turn LED ON
+        dig**italWrite(ledPin, HIGH); // turn LED ON
       }
     }
 
